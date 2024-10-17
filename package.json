@@ -1,9 +1,9 @@
 {
-  "name": "npx_test",
+  "name": "gh_pages_final",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://webjhpark.github.io/npx_test",
+  "homepage": "https://webjhpark.github.io/gh_pages_final",
   "scripts": {
     "clean": "rimraf package-lock.json && npm cache verify && npm install --force",
     "start": "vite",
