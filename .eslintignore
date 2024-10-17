@@ -1,0 +1,8 @@
+# script
+**/*.js
+
+# dependencies
+node_modules
+
+# production
+dist
